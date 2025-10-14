@@ -33,7 +33,8 @@ for i in range(4):
 
 draw_polygon(6) 
 for i in range(6):
-    tina.forward                       # Draw a pentagon
+    tina.forward(50)
+                           # Draw a pentagon
 
 ...                                      # Move tina to another spot on the screen
 
