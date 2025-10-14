@@ -27,11 +27,13 @@ draw_polygon(4)                        # Draw a square
 for i in range(4):
     tina.forward(50)
     tina.left(90)
-    
+
 
                                       # Move tina to another spot on the screen
 
-draw_polygon(6)                        # Draw a pentagon
+draw_polygon(6) 
+for i in range(6):
+    tina.forward                       # Draw a pentagon
 
 ...                                      # Move tina to another spot on the screen
 
