@@ -19,10 +19,10 @@ def draw_polygon(sides):
     angle = 360/sides # Calculate angle from number of sides
     
     for i in range(5):                 # Loop through the number of sides
-        tina.                              # Move tina forward by the forward distance
-        ...                              # Turn tina left by the left turn
+        tina.forward(50)
+        tina.left(72)                              # Move tina forward by the forward distance                              # Turn tina left by the left turn
 
-draw_polygon(...)                        # Draw a square
+draw_polygon(5)                        # Draw a square
 
 ...                                      # Move tina to another spot on the screen
 
