@@ -16,7 +16,7 @@ tina.speed(2)
 
 for i in range(6):
     tina.forward(50) 
-    tina.left(108)
+    tina.left(72)
     
 
 
