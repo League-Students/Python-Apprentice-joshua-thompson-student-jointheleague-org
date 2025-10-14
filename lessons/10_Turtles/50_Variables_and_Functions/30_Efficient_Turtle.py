@@ -24,7 +24,9 @@ def draw_polygon(sides):
 
 draw_polygon(4)                        # Draw a square
 
-...                                      # Move tina to another spot on the screen
+for i in range(4)
+tina.
+                                      # Move tina to another spot on the screen
 
 draw_polygon(6)                        # Draw a pentagon
 
