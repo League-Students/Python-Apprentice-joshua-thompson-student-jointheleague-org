@@ -26,7 +26,8 @@ draw_polygon(4)                        # Draw a square
 
 for i in range(4):
     tina.forward(50)
-    tina.left()
+    tina.left(90)
+    
 
                                       # Move tina to another spot on the screen
 
