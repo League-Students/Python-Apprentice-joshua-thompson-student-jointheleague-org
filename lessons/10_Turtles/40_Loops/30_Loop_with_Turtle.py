@@ -9,11 +9,12 @@ write a new program that uses a loop to draw a pentagon.
 ... # Your code here
 import turtle
 tina = turtle.Turtle()
-tina.shape = 
+tina.shape = turtle()
 
 
 
 for i in range(6):
+    tina.left()
     
 
 
