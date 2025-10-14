@@ -14,7 +14,8 @@ tina.shape = turtle()
 
 
 for i in range(6):
-    tina.left()
+    tina.forward(50) 
+    tina.left(108)
     
 
 
